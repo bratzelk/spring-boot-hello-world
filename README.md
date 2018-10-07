@@ -11,6 +11,9 @@ It has one endpoint which returns a JSON response containing the hostname and IP
 ## Using the API
 Simply start the app and make a HTTP GET request to http://localhost:8080/ and you will get a JSON response.
 
+## Docker Build
+The application has been built and packaged in a Docker container and published to DockerHub: https://hub.docker.com/r/kimb88/hello-world-spring-boot/
+
 ## How To
 
 #### Clean and Build
