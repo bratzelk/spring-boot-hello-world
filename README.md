@@ -23,6 +23,10 @@ mvn clean package
 mvn spring-boot:run
 open http://localhost:8080/
 ```
+Or
+```
+java -jar ./target/spring-boot-hello-world-1.0.0-SNAPSHOT.jar
+```
 
 #### Test
 ```
